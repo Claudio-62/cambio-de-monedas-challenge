@@ -7,5 +7,5 @@
 - Debe ingresar el monto a convertir.
 - Aprecera en el menu el valor de la moneda de la opción de cambio elegida y la fecha de acutización del valor.
 - Puede elegir un nuevo proceso para convertir monedas, de lo contrario digitar 0 para salir.
-- En esta oportudidad se eligieron 11 tipos de monedas para convertir entr ellas, si gusta elegir otras onedas
+- En esta oportudidad se eligieron 11 tipos de monedas para convertir entre ellas, si gusta elegir otras monedas
  debe modificar la libreria para utilizar monedas compatibles con la Aplicacion Exchange Rate.
