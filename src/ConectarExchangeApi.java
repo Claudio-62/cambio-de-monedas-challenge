@@ -13,7 +13,7 @@ public class ConectarExchangeApi {
         public List<Moneda> requestPairConversion(String baseCurrency, String baseCode, String targetCurrency, String targetCode, String amount){
 
             String API_ADDRESS =  "https://v6.exchangerate-api.com/v6/";
-            String API_KEY = "804cedfb4ea355437be7e392"; // Ingrese su Clave
+            String API_KEY = ""; // Ingrese su Clave
 
 
             StringBuilder sb;
